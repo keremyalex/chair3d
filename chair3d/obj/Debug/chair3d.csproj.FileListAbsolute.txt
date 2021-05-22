@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\chair3d\chair3d\bin\Debug\chair3d.exe.config
+C:\Users\Alex\source\repos\chair3d\chair3d\bin\Debug\chair3d.exe
+C:\Users\Alex\source\repos\chair3d\chair3d\bin\Debug\chair3d.pdb
+C:\Users\Alex\source\repos\chair3d\chair3d\bin\Debug\OpenTK.dll
+C:\Users\Alex\source\repos\chair3d\chair3d\bin\Debug\OpenTK.pdb
+C:\Users\Alex\source\repos\chair3d\chair3d\bin\Debug\OpenTK.xml
+C:\Users\Alex\source\repos\chair3d\chair3d\bin\Debug\OpenTK.dll.config
+C:\Users\Alex\source\repos\chair3d\chair3d\obj\Debug\chair3d.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\chair3d\chair3d\obj\Debug\chair3d.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\chair3d\chair3d\obj\Debug\chair3d.csproj.CopyComplete
+C:\Users\Alex\source\repos\chair3d\chair3d\obj\Debug\chair3d.exe
+C:\Users\Alex\source\repos\chair3d\chair3d\obj\Debug\chair3d.pdb
